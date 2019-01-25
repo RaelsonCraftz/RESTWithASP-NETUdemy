@@ -1,0 +1,11 @@
+C:\Users\Raelson\Meus Tutoriais\ProjetoAulas\RESTWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.0\RestWithASPNETUdemy.deps.json
+C:\Users\Raelson\Meus Tutoriais\ProjetoAulas\RESTWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.0\RestWithASPNETUdemy.runtimeconfig.json
+C:\Users\Raelson\Meus Tutoriais\ProjetoAulas\RESTWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.0\RestWithASPNETUdemy.runtimeconfig.dev.json
+C:\Users\Raelson\Meus Tutoriais\ProjetoAulas\RESTWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.0\RestWithASPNETUdemy.dll
+C:\Users\Raelson\Meus Tutoriais\ProjetoAulas\RESTWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.0\RestWithASPNETUdemy.pdb
+C:\Users\Raelson\Meus Tutoriais\ProjetoAulas\RESTWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.csprojAssemblyReference.cache
+C:\Users\Raelson\Meus Tutoriais\ProjetoAulas\RESTWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.csproj.CoreCompileInputs.cache
+C:\Users\Raelson\Meus Tutoriais\ProjetoAulas\RESTWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.AssemblyInfoInputs.cache
+C:\Users\Raelson\Meus Tutoriais\ProjetoAulas\RESTWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.AssemblyInfo.cs
+C:\Users\Raelson\Meus Tutoriais\ProjetoAulas\RESTWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.dll
+C:\Users\Raelson\Meus Tutoriais\ProjetoAulas\RESTWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.pdb
